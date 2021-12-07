@@ -1,2 +1,2 @@
-# leetcode_data_structure_and_algorithm
+# Leetcode data structure and algorithm questions solution in Python
 Leetcode data structure and algorithm questions solution in Python
